@@ -1,1 +1,2 @@
-pingsu_dev test for springcloud config center server
+config:
+  info: "master brance,springcloud-config/config-dev.yml version=1"
